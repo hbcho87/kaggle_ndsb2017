@@ -1,0 +1,55 @@
+*   [33m5a58e8c[m Merge pull request #39 from ko/patch-3
+[31m|[m[32m\[m  
+[31m|[m * [33ma64df95[m Add an import for math
+* [32m|[m   [33mf6e8989[m Merge pull request #38 from ko/patch-2
+[32m|[m[34m\[m [32m\[m  
+[32m|[m [34m|[m[32m/[m  
+[32m|[m[32m/[m[34m|[m   
+[32m|[m * [33m21e3850[m Create the "models" directory if not found.
+* [34m|[m   [33m21bcca6[m Merge pull request #37 from ko/patch-1
+[34m|[m[36m\[m [34m\[m  
+[34m|[m [36m|[m[34m/[m  
+[34m|[m[34m/[m[36m|[m   
+[34m|[m * [33ma54bb1e[m Including "subset0" for LUNA16 processing
+[34m|[m[34m/[m  
+*   [33md1f3433[m Merge pull request #36 from ko/worker_pool_size
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m14bffaf[m Add WORKER_POOL_SIZE setting.
+[1;31m|[m[1;31m/[m  
+*   [33m5847325[m Merge pull request #4 from shartoo/master
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m91b64ce[m adjust image generated from dicom
+[1;33m|[m[1;33m/[m  
+* [33m7b1214a[m Update README.md
+* [33m1098951[m Update README.md
+* [33m3b0d15b[m Update README.md
+* [33m6168012[m Update README.md
+* [33m2303ab6[m Update README.md
+* [33mea12513[m Update README.md
+* [33m4615c2e[m Update README.md
+* [33m65ed05b[m Create readme.md
+* [33m3c6fc95[m Update readme.md
+* [33m8cb8ee4[m Add files via upload
+* [33ma6546d9[m Create readme.md
+* [33m9528320[m Create readme.md
+* [33me7ebfee[m Add files via upload
+* [33m2654154[m Update README.md
+* [33m2fc63fb[m Update README.md
+* [33m7975738[m Update README.md
+* [33mc78223a[m Update README.md
+* [33m7b4e5e9[m Update README.md
+* [33m579f70c[m Update README.md
+* [33m57bb469[m Update README.md
+* [33mdf30034[m Update README.md
+* [33m337cf95[m Update readme.md
+* [33m9b605a3[m Delete resources.md
+* [33m78ddf37[m Update readme.md
+* [33m39bd526[m Update resources.md
+* [33m3d472d2[m Create readme.md
+* [33m066adbc[m Create resources.md
+* [33m6de658e[m Add files via upload
+* [33m987fb52[m Create readme.md
+* [33m40413c1[m Add files via upload
+* [33m3d55b92[m Add files via upload
+* [33m1048b85[m Create README.md
+* [33m6bebb3a[m Initial commit
